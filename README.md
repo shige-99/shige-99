@@ -18,6 +18,10 @@
 ![](https://img.shields.io/static/v1?label=Tool&message=Slack&style=flat&logo=slack&labelColor=22272E&color=316dca)
 ![](https://img.shields.io/static/v1?label=Tool&message=Discord&style=flat&logo=discord&labelColor=22272E&color=316dca)
 ![](https://img.shields.io/static/v1?label=Tool&message=Vercel&style=flat&logo=vercel&labelColor=22272E&color=316dca)
+![](https://img.shields.io/static/v1?label=Tool&message=Postman&style=flat&logo=postman&labelColor=22272E&color=316dca)
+![](https://img.shields.io/static/v1?label=Tool&message=Cloudflare&style=flat&logo=cloudflare&labelColor=22272E&color=316dca)
+![](https://img.shields.io/static/v1?label=Tool&message=Git&style=flat&logo=git&labelColor=22272E&color=316dca)
+![](https://img.shields.io/static/v1?label=Tool&message=Github&style=flat&logo=github&labelColor=22272E&color=316dca)
 
 <!--
 **yamatsum/yamatsum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
